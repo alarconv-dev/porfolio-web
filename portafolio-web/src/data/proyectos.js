@@ -3,10 +3,10 @@
 export const listaProyectos = [
   {
     id: 1,
-    titulo: "Script de Diagnóstico de Hardware y Sistema",
-    descripcion: "Herramienta de automatización local que analiza en tiempo real el rendimiento de componentes críticos (CPU, RAM, almacenamiento). Genera reportes de diagnóstico y optimización del sistema.",
-    tags: ["Python", "OS Module", "Psutil", "CLI"],
-    linkGithub: "https://github.com/tu-usuario/hardware-diagnostic-script"
+    titulo: "Gestor de tareas Full Stack",
+    descripcion: "App CRUD completa: crear, editar y eliminar tareas con autenticación de usuarios.",
+    tags: ["React.js", "Node.js", "Express", "MongoDB", "JWT", "JavaScript", "Git", "CSS3"],
+    linkGithub: "https://github.com/alarconv-dev/gestor-tarea-fullstack-frontend.git"
   },
   {
     id: 2,
