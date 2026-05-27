@@ -5,7 +5,7 @@ export const listaProyectos = [
     id: 1,
     titulo: "Gestor de tareas Full Stack",
     descripcion: "App CRUD completa: crear, editar y eliminar tareas con autenticación de usuarios.",
-    tags: ["React.js", "Node.js", "Express", "MongoDB", "JWT", "JavaScript", "Git", "CSS3"],
+    tags: ["React.js", "Node.js", "Express", "SQLlite3", "JWT", "JavaScript", "Git", "CSS3"],
     linkGithub: "https://github.com/alarconv-dev/gestor-tarea-fullstack-frontend.git"
   },
   {
