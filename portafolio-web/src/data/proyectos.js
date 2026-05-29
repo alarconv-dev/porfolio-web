@@ -10,16 +10,23 @@ export const listaProyectos = [
   },
   {
     id: 2,
-    titulo: "Dashboard de Monitoreo de APIs (Frontend)",
-    descripcion: "Interfaz dinámica construida en React que consume servicios externos para rastrear el estado de servidores, tiempos de respuesta y manejo de errores globales a través de gráficos interactivos.",
-    tags: ["React.js", "Vite", "REST APIs", "Fetch / Axios"],
-    linkGithub: "https://github.com/tu-usuario/api-dashboard-frontend"
+    titulo: "Tienda online con catálogo",
+    descripcion: "Una tienda donde los usuarios pueden ver productos, agregarlos al carrito y realizar pedidos. Incluye un panel de administración para gestionar el inventario.",
+    tags: ["React.js", "CSS3", "HTML5", "PHP", "MySQL", "GitHub", "Git"],
+    linkGithub: "https://github.com/alarconv-dev/tienda-online.git"
   },
   {
     id: 3,
-    titulo: "Sistema de Gestión y Persistencia de Datos (Full Stack)",
-    descripcion: "Aplicación completa con arquitectura cliente-servidor. Incluye autenticación segura de usuarios (JWT), operaciones CRUD completas y almacenamiento optimizado en base de datos.",
-    tags: ["Node.js", "Express", "MongoDB / SQL", "JWT"],
+    titulo: "Dashboard de analíticas",
+    descripcion: "Panel con gráficos en tiempo real consumiendo una API REST propia. Demuestra que sabes diseñar APIs, manejar datos y visualizarlos de forma clara.",
+    tags: ["React.js", "Python", "SQL", "Node.js", "Git", "GitHub", "CSS3"],
+    linkGithub: "https://github.com/alarconv-dev/sinnombre"
+  },
+  {
+    id: 4,
+    titulo: "API REST de inventario",
+    descripcion: "API documentada para gestionar inventario de productos: endpoints para listar, crear, actualizar y eliminar. Ideal para mostrar conocimiento de backend puro",
+    tags: ["c#", "Node.js", "SQL", "Git", "GitHub"],
     linkGithub: "https://github.com/tu-usuario/fullstack-management-system"
   }
 ];
