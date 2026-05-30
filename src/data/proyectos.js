@@ -1,5 +1,3 @@
-// src/data/proyectos.js
-
 export const listaProyectos = [
   {
     id: 1,
@@ -26,7 +24,7 @@ export const listaProyectos = [
     id: 4,
     titulo: "API REST de inventario",
     descripcion: "API documentada para gestionar inventario de productos: endpoints para listar, crear, actualizar y eliminar. Ideal para mostrar conocimiento de backend puro",
-    tags: ["c#", "Node.js", "SQL", "Git", "GitHub"],
+    tags: ["C#", "Node.js", "SQL", "Git", "GitHub"],
     linkGithub: "https://github.com/alarconv-dev/API-REST-inventario.git"
   }
 ];
