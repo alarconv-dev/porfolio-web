@@ -28,7 +28,7 @@ export default function Hero() {
                         <a href="#proyectos" style={{ backgroundColor: '#38bdf8', color: '#0f172a', padding: '10px 20px', borderRadius: '6px', fontWeight: 'bold', textDecoration: 'none', fontSize: '14px' }}>
                             Ver Proyectos
                         </a>
-                        <a href="mailto:tu-correo@email.com" style={{ border: '1px solid #475569', color: '#f8fafc', padding: '10px 20px', borderRadius: '6px', fontWeight: 'bold', textDecoration: 'none', fontSize: '14px' }}>
+                        <a href="mailto:alarconv7474@gmail.com" style={{ border: '1px solid #475569', color: '#f8fafc', padding: '10px 20px', borderRadius: '6px', fontWeight: 'bold', textDecoration: 'none', fontSize: '14px' }}>
                             Contacto Directo
                         </a>
                     </div>
