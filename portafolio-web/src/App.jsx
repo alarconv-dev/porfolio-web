@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
+import Header from './components/header.jsx';
+import Hero from './components/hero.jsx';
+import Projects from './components/projects.jsx';
+import Skills from './components/skills.jsx';
 
 export default function App() {
   return (
