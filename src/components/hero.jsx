@@ -8,18 +8,21 @@ export default function Hero() {
                 {/* Columna Principal: Perfil Técnico Directo */}
                 <div style={{ flex: '2', minWidth: '300px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
                     <h1 style={{ fontSize: '42px', fontWeight: 'bold', margin: '0 0 10px 0', color: '#f8fafc' }}>
-                        Desarrollador <span style={{ color: '#38bdf8' }}>Full Stack Junior</span>
+                        Desarrollador <span style={{ color: '#38bdf8' }}>Full Stack & Mobile Junior</span>
                     </h1>
                     <p style={{ fontSize: '16px', color: '#64748b', margin: '0 0 25px 0', textTransform: 'uppercase', letterSpacing: '1px' }}>
-                        Enfoque: Arquitectura de APIs • Interfaces Dinámicas • Lógica de Datos
+                        Enfoque: Arquitectura de APIs • Interfaces Dinámicas • Lógica de Datos • Apps Móviles
                     </p>
 
                     <div style={{ color: '#94a3b8', fontSize: '16px', lineHeight: '1.6' }}>
                         <p style={{ margin: '0 0 15px 0' }}>
-                            Desarrollador orientado a resultados con una base sólida en lógica de programación y flujos de datos. Capacidad para trabajar tanto en el desarrollo de interfaces de usuario interactivas con **React** como en la estructuración de servicios del lado del servidor.
+                            Desarrollador orientado a resultados con una base sólida en lógica de programación y flujos de datos. Capacidad para trabajar tanto en el desarrollo de interfaces de usuario interactivas con React como en la estructuración de servicios del lado del servidor.
+                        </p>
+                        <p style={{ margin: '0 0 15px 0' }}>
+                            Foco actual en la creación de aplicaciones eficientes, consumo y diseño de APIs RESTful, y gestión de bases de datos relacionales y no relacionales. Competente en la automatización de tareas y scripts de sistema en entornos locales.
                         </p>
                         <p style={{ margin: '0 0 25px 0' }}>
-                            Foco actual en la creación de aplicaciones eficientes, consumo y diseño de APIs RESTful, y gestión de bases de datos relacionales y no relacionales. Competente en la automatización de tareas y scripts de sistema en entornos locales.
+                            Desarrollo de aplicaciones móviles nativas para Android con <strong style={{ color: '#f8fafc' }}>Java</strong>, aplicando arquitectura <strong style={{ color: '#f8fafc' }}>MVVM</strong>, Room para persistencia local y Gradle como sistema de construcción.
                         </p>
                     </div>
 
