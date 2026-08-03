@@ -26,5 +26,12 @@ export const listaProyectos = [
     descripcion: "API documentada para gestionar inventario de productos: endpoints para listar, crear, actualizar y eliminar. Ideal para mostrar conocimiento de backend puro",
     tags: ["C#", "Node.js", "SQL", "Git", "GitHub"],
     linkGithub: "https://github.com/alarconv-dev/API-REST-inventario.git"
+  },
+  {
+    id:5,
+    titulo: "Control de Asistencia Escolar",
+    descripcion: "Sistema para registrar la asistencia de estudiantes en una institución educativa. Permite a los docentes marcar asistencia.",
+    tags: ["PHP", "MySQL", "Git", "GitHub", "CSS3", "HTML5", "FrameworkCSS", "Composer"],
+    linkGithub: "https://github.com/alarconv-dev/proyecto-asistencia.git"
   }
 ];
