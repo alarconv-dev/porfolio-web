@@ -40,5 +40,12 @@ export const listaProyectos = [
     descripcion: "Web API RESTful en .NET 8 con ASP.NET Core Identity y JWT para la gestión segura de usuarios, encriptación de contraseñas y protección de endpoints.",
     tags: ["NET 8", "C#", "ASP.NET Core", "JWT", "SQL Server", "EF Core", "Git", "GitHub"],
     linkGithub: "https://github.com/alarconv-dev/Autentication-identity.git"
+  },
+  {
+    id:7,
+    titulo: "APIrest gestor de tareas",
+    descripcion: "API RESTful para gestionar tareas, con endpoints para crear, leer, actualizar y eliminar tareas. Incluye autenticación y autorización de usuarios.",
+    tags: ["Java", "Spring Boot", "REST API", "Git", "GitHub", "Maven"],
+    linkGithub: "https://github.com/alarconv-dev/api-gestor-tareas.git"
   }
 ];
