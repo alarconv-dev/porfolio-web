@@ -1,16 +1,23 @@
-# React + Vite
+# 🚀 Portfolio Web | Víctor Alarcón
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido/a al repositorio de mi portfolio web personal! Este espacio reúne mis proyectos destacados, experiencia y habilidades técnicas en un solo lugar interactivo y de alto rendimiento.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Habilidades Técnicas
 
-## React Compiler
+* **Lenguajes de Programación:** JavaScript, C#, Python, Java, PHP, HTML5, CSS3
+* **Frontend:** React, Next.js, Frameworks CSS
+* **Backend:** Node.js, Express, ASP.NET Core, EF Core, Spring Boot, Spring MVC
+* **Bases de Datos:** SQL, MySQL, SQL Server, MongoDB
+* **APIs & Web Services:** RESTful APIs, Web Services, Arquitectura MVC, JWT
+* **Herramientas & Entornos:** Git, GitHub, Composer
+* **Buenas Prácticas & Desarrollo:** Optimizaciones de Rendimiento, Revisión de Código (Code Review), Aprendizaje Continuo y Desarrollo Profesional
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Características Principales
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Diseño Responsive:** Adaptado a dispositivos móviles, tablets y escritorio.
+* **Proyectos Destacados:** Sección interactiva para explorar mis trabajos más recientes con enlaces a sus demostraciones en vivo y repositorios.
+* **Sección de Contacto:** Conexión directa para oportunidades laborales o colaboraciones.

@@ -8,7 +8,7 @@ export default function Skills() {
         JavaScript • C# • HTML5 • CSS3 • Node.js • Python <br></br> SQL • MongoDB • PHP • React • Java • Git <br>
         </br> GitHub • MySQL • SQL Server • JWT • Express • ASP.NET Core • EF Core <br>
         </br> Framework CSS • Composer • Spring Boot • Spring MVC • RESTful APIs <br>
-        </br> Web Services • MVC Architecture <br>
+        </br> Next.js • Web Services • MVC Architecture <br>
         </br> Performance Optimization & Code Review <br>
         </br> Continuous Learning & Professional Development
       </p>
