@@ -33,5 +33,12 @@ export const listaProyectos = [
     descripcion: "Sistema para registrar la asistencia de estudiantes en una institución educativa. Permite a los docentes marcar asistencia.",
     tags: ["PHP", "MySQL", "Git", "GitHub", "CSS3", "HTML5", "FrameworkCSS", "Composer"],
     linkGithub: "https://github.com/alarconv-dev/proyecto-asistencia.git"
+  },
+  {
+    id:6,
+    titulo: "Autenticación Web API con ASP.NET Core Identity & JWT",
+    descripcion: "Web API RESTful en .NET 8 con ASP.NET Core Identity y JWT para la gestión segura de usuarios, encriptación de contraseñas y protección de endpoints.",
+    tags: ["NET 8", "C#", "ASP.NET Core", "JWT", "SQL Server", "EF Core", "Git", "GitHub"],
+    linkGithub: "https://github.com/alarconv-dev/Autentication-identity.git"
   }
 ];
